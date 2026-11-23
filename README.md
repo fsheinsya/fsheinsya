@@ -4,5 +4,4 @@
 
 unityroom:
 
-[![毛一つのイラスト](images/mouhitotsu.png)](https://unityroom.com/games/mouhi1tsu)
 [![Undersideのイラスト](images/underside.png)](https://unityroom.com/games/underdside)
